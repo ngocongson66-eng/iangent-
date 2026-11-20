@@ -1,0 +1,13 @@
+================================================================================
+PHIẾU TRÌNH PHÊ DUYỆT VƯỢT THẨM QUYỀN (ESCALATION TICKET)
+Mã cơ hội: REQ-2026-001
+Kính gửi: Trưởng phòng Kinh doanh
+Người trình duyệt: NVKD 01 - Nguyễn Văn An
+--------------------------------------------------------------------------------
+1. Thông tin khách hàng: Công ty Cổ phần Công nghệ AlphaTech (procurement@alphatech.vn)
+2. Tổng giá trị cơ hội đề xuất: 239,200,000 VNĐ (Ngân sách KH: 270,000,000 VNĐ)
+3. Mức chiết khấu xin phê duyệt: 8.0% (Hạn mức NVKD tối đa: 8.0%)
+4. Căn cứ trình duyệt:
+   * Tổng giá trị cơ hội (239,200,000 VNĐ) vượt thẩm quyền NVKD (200.000.000 VNĐ).
+5. Ý kiến đề xuất của NVKD: Đề xuất Lãnh đạo phê duyệt để giữ chân khách hàng chiến lược / chốt đơn hàng có giá trị lớn trong tháng.
+================================================================================

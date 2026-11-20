@@ -1,0 +1,17 @@
+{
+  "functions": {
+    "api/index.py": {
+      "includeFiles": "server.py,src/**,data/**,outputs/**,Hung_Phat_Test_Data_5_Steps.xlsx"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/index?__vercel_path=/api/$1"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/api/index?__vercel_path=/$1"
+    }
+  ]
+}

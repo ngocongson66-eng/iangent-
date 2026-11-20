@@ -1,0 +1,50 @@
+{
+  "LAP-DELL-5530": {
+    "available_stock": 25,
+    "location": "Kho Hà Nội",
+    "restock_lead_days": 14,
+    "min_order_batch": 5
+  },
+  "LAP-THINK-L14": {
+    "available_stock": 12,
+    "location": "Kho TP.HCM",
+    "restock_lead_days": 10,
+    "min_order_batch": 5
+  },
+  "SRV-DELL-R750": {
+    "available_stock": 2,
+    "location": "Kho Hà Nội",
+    "restock_lead_days": 28,
+    "min_order_batch": 1
+  },
+  "NET-CISCO-C9200L": {
+    "available_stock": 4,
+    "location": "Kho TP.HCM",
+    "restock_lead_days": 21,
+    "min_order_batch": 2
+  },
+  "NET-FORTI-60F": {
+    "available_stock": 0,
+    "location": "Kho Hà Nội (Hết hàng)",
+    "restock_lead_days": 25,
+    "min_order_batch": 2
+  },
+  "DIS-DELL-24P": {
+    "available_stock": 50,
+    "location": "Kho Hà Nội",
+    "restock_lead_days": 7,
+    "min_order_batch": 10
+  },
+  "SVC-MIG-CLOUD": {
+    "available_stock": 999,
+    "location": "Đội ngũ Dịch vụ Giải pháp",
+    "restock_lead_days": 5,
+    "min_order_batch": 1
+  },
+  "SVC-MAIN-YEAR": {
+    "available_stock": 999,
+    "location": "Đội ngũ Vận hành & Hỗ trợ kỹ thuật",
+    "restock_lead_days": 3,
+    "min_order_batch": 1
+  }
+}

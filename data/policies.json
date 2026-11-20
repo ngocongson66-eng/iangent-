@@ -1,0 +1,38 @@
+{
+  "discount_matrix": {
+    "volume_tier_rules": [
+      { "min_quantity": 20, "standard_discount_rate": 0.08, "description": "Số lượng từ 20 cái trở lên: giảm 8%" },
+      { "min_quantity": 10, "standard_discount_rate": 0.05, "description": "Số lượng từ 10 - 19 cái: giảm 5%" },
+      { "min_quantity": 5, "standard_discount_rate": 0.03, "description": "Số lượng từ 5 - 9 cái: giảm 3%" },
+      { "min_quantity": 1, "standard_discount_rate": 0.0, "description": "Dưới 5 cái: Không chiết khấu số lượng tự động" }
+    ]
+  },
+  "approval_authorities": {
+    "sales_rep": {
+      "max_discount_rate": 0.08,
+      "max_deal_value_vnd": 200000000,
+      "can_approve_urgent_lead_time": false
+    },
+    "sales_manager": {
+      "max_discount_rate": 0.20,
+      "max_deal_value_vnd": 1000000000,
+      "can_approve_urgent_lead_time": true
+    },
+    "board_of_directors": {
+      "max_discount_rate": 0.35,
+      "max_deal_value_vnd": 10000000000,
+      "can_approve_urgent_lead_time": true
+    }
+  },
+  "operational_rules": {
+    "in_stock_dispatch_days": 3,
+    "buffer_handling_days": 2,
+    "budget_variance_tolerance_ratio": 0.05
+  },
+  "mandatory_request_fields": [
+    "items",
+    "quantities",
+    "customer_budget",
+    "required_delivery_days"
+  ]
+}

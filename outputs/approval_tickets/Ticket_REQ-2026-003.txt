@@ -1,0 +1,14 @@
+================================================================================
+PHIẾU TRÌNH PHÊ DUYỆT VƯỢT THẨM QUYỀN (ESCALATION TICKET)
+Mã cơ hội: REQ-2026-003
+Kính gửi: Trưởng phòng Kinh doanh
+Người trình duyệt: NVKD 03 - Lê Hoàng Long
+--------------------------------------------------------------------------------
+1. Thông tin khách hàng: Ngân hàng Thương mại Hưng Thịnh (it-procurement@hungthinhbank.vn)
+2. Tổng giá trị cơ hội đề xuất: 233,750,000 VNĐ (Ngân sách KH: 300,000,000 VNĐ)
+3. Mức chiết khấu xin phê duyệt: 15.0% (Hạn mức NVKD tối đa: 8.0%)
+4. Căn cứ trình duyệt:
+   * Chiết khấu đề xuất 15.0% vượt hạn mức NVKD (8.0%), cần Trưởng phòng duyệt.
+   * Tổng giá trị cơ hội (233,750,000 VNĐ) vượt thẩm quyền NVKD (200.000.000 VNĐ).
+5. Ý kiến đề xuất của NVKD: Đề xuất Lãnh đạo phê duyệt để giữ chân khách hàng chiến lược / chốt đơn hàng có giá trị lớn trong tháng.
+================================================================================

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "REQ-2026-001",
+    "customer_name": "Công ty Cổ phần Công nghệ AlphaTech",
+    "contact_email": "procurement@alphatech.vn",
+    "channel": "Email",
+    "raw_request_text": "Chào Minh An, công ty chúng tôi cần mua 10 chiếc Laptop ThinkPad L14 Gen 4 và 10 chiếc Màn hình Dell P2422H để trang bị cho nhân sự mới. Ngân sách dự kiến của chúng tôi là 270.000.000 VNĐ. Yêu cầu giao hàng trong vòng 10 ngày làm việc tới chi nhánh TP.HCM. Mong công ty báo giá và áp dụng mức chiết khấu theo chính sách cho chúng tôi.",
+    "scenario_type": "THÔNG THƯỜNG (Happy Path)"
+  },
+  {
+    "id": "REQ-2026-002",
+    "customer_name": "Tập đoàn Xây dựng Horizon",
+    "contact_email": "it.admin@horizoncorp.com",
+    "channel": "Web Form",
+    "raw_request_text": "Chúng tôi quan tâm đến dòng laptop doanh nghiệp Dell Latitude 5530 để trang bị cho phòng dự án. Vui lòng gửi cấu hình chi tiết và bảng giá sớm nhất. Chưa rõ ngân sách cụ thể, sẽ cân đối sau khi có báo giá.",
+    "scenario_type": "THIẾU DỮ LIỆU (Thiếu số lượng, ngân sách, thời hạn)"
+  },
+  {
+    "id": "REQ-2026-003",
+    "customer_name": "Ngân hàng Thương mại Hưng Thịnh",
+    "contact_email": "it-procurement@hungthinhbank.vn",
+    "channel": "Email",
+    "raw_request_text": "Ngân hàng cần đầu tư 02 Máy chủ Dell PowerEdge R750 và 01 Gói Dịch vụ Di chuyển hạ tầng lên Cloud/Hybrid. Ngân sách phê duyệt của HĐQT là 300.000.000 VNĐ. Thời hạn bàn giao trong 30 ngày. Đề nghị chiết khấu đặc biệt 15% trên tổng giá trị để đối tác xem xét hợp tác lâu dài.",
+    "scenario_type": "RANH GIỚI QUY TẮC (Vượt thẩm quyền NVKD: Chiết khấu 15% & Tổng tiền > 200tr -> Chờ duyệt)"
+  },
+  {
+    "id": "REQ-2026-004",
+    "customer_name": "Công ty TNHH Truyền thông Nova Media",
+    "contact_email": "contact@novamedia.com",
+    "channel": "Web Form",
+    "raw_request_text": "Chúng tôi cần gấp 10 bộ Thiết bị Tường lửa Fortinet FortiGate 60F để triển khai gấp cho chuỗi chi nhánh trong vòng 5 ngày tới. Ngân sách dự toán là 250.000.000 VNĐ. Đơn vị có cam kết bàn giao đúng hạn được không?",
+    "scenario_type": "CHƯA ĐÁP ỨNG (Hết hàng tồn kho, Lead time nhập khẩu 25 ngày > Hạn khách 5 ngày)"
+  },
+  {
+    "id": "REQ-2026-005",
+    "customer_name": "Startup Logistics Vận Chuyển Nhanh",
+    "contact_email": "ceo@fastlog.vn",
+    "channel": "Email",
+    "raw_request_text": "Bên mình cần mua 6 chiếc Laptop Dell Latitude 5530. Ngân sách tối đa của bên mình có 80.000.000 VNĐ trọn gói, cần giao trong 7 ngày tới. Báo giá nhanh giúp mình nhé.",
+    "scenario_type": "CHƯA ĐÁP ỨNG (Ngân sách khách hàng 80tr quá thấp so với giá niêm yết ~147tr, thiếu hụt > 40%)"
+  },
+  {
+    "id": "REQ-2026-006",
+    "customer_name": "Trường Quốc tế Global Academy",
+    "contact_email": "facility@globalacademy.edu.vn",
+    "channel": "Email",
+    "raw_request_text": "Nhà trường dự kiến nâng cấp hệ thống mạng và bảo trì cho năm học mới: cần 03 Switch Cisco Catalyst 9200L 24 Ports PoE+ và 01 Gói Dịch vụ Bảo trì CNTT Doanh nghiệp trọn gói 1 năm. Ngân sách là 160.000.000 VNĐ. Thời gian triển khai yêu cầu là 25 ngày. Đề xuất chiết khấu 5% theo khối giáo dục.",
+    "scenario_type": "THÔNG THƯỜNG / HỢP LỆ (Hàng đủ hoặc kịp lead time, trong ngân sách và thẩm quyền NVKD)"
+  }
+]

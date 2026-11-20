@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "LAP-DELL-5530",
+    "name": "Laptop Dell Latitude 5530 i7/16GB/512GB",
+    "category": "Hardware",
+    "unit_price": 24500000,
+    "unit": "chiếc",
+    "description": "Dòng laptop doanh nghiệp bền bỉ, bảo mật"
+  },
+  {
+    "sku": "LAP-THINK-L14",
+    "name": "Laptop ThinkPad L14 Gen 4 Ryzen 7/16GB/512GB",
+    "category": "Hardware",
+    "unit_price": 21800000,
+    "unit": "chiếc",
+    "description": "Laptop cho khối văn phòng và kỹ thuật"
+  },
+  {
+    "sku": "SRV-DELL-R750",
+    "name": "Máy chủ Dell PowerEdge R750 Xeon Silver 4314",
+    "category": "Server",
+    "unit_price": 115000000,
+    "unit": "bộ",
+    "description": "Máy chủ rack 2U cho hệ thống ERP/Database"
+  },
+  {
+    "sku": "NET-CISCO-C9200L",
+    "name": "Switch Cisco Catalyst 9200L 24 Ports PoE+",
+    "category": "Network",
+    "unit_price": 38500000,
+    "unit": "thiết bị",
+    "description": "Switch mạng quản lý Layer 3 doanh nghiệp"
+  },
+  {
+    "sku": "NET-FORTI-60F",
+    "name": "Tường lửa Fortinet FortiGate 60F kèm 1Yr UTP",
+    "category": "Network",
+    "unit_price": 22000000,
+    "unit": "thiết bị",
+    "description": "Thiết bị bảo mật an ninh mạng mạng chi nhánh"
+  },
+  {
+    "sku": "DIS-DELL-24P",
+    "name": "Màn hình Dell P2422H 24 inch FHD IPS",
+    "category": "Peripherals",
+    "unit_price": 4200000,
+    "unit": "chiếc",
+    "description": "Màn hình chuyên dụng văn phòng xoay dọc"
+  },
+  {
+    "sku": "SVC-MIG-CLOUD",
+    "name": "Dịch vụ Di chuyển hạ tầng lên Cloud/Hybrid",
+    "category": "Service",
+    "unit_price": 45000000,
+    "unit": "gói",
+    "description": "Tư vấn thiết kế, chuyển đổi dữ liệu và triển khai Cloud"
+  },
+  {
+    "sku": "SVC-MAIN-YEAR",
+    "name": "Dịch vụ Bảo trì CNTT Doanh nghiệp trọn gói 1 năm",
+    "category": "Service",
+    "unit_price": 36000000,
+    "unit": "hợp đồng",
+    "description": "Hỗ trợ 24/7 on-site và remote định kỳ"
+  }
+]
